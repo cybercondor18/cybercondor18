@@ -1,9 +1,37 @@
 # 💫 About Shivang :
-I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>🔭 Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>🌱 Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>👯 Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>🤔 Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>💬 Ask Me About<br>MERN Stack Development<br>UI/UX Designing with Figma<br>Blockchain basics and applications<br>Competitive Programming<br><br>😄 Pronouns<br>He/Him<br><br>⚡ Fun Fact<br>I enjoy solving puzzles, both in life and in code. Competitive programming and UI/UX design give me a creative and logical playground!
+I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>🔭 Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>🌱 Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>👯 Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>🤔 Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
+<!---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-tonde-56757528a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivang_tonde_18) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/grey_hat_18/)
+
+
+
+<h3 align="center">Socials </h3>
+<hr>
+-->
+  <a href="https://www.linkedin.com/in/shivang-tonde-56757528a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;&nbsp;
+  <a href="mailto:shivangtonde1811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/shivang_tonde_18">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a> &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/shivang_1811">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef">
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/grey_hat_18/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode">
+  </a> &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/shivangtonde">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle">
+  </a> &nbsp;&nbsp;
+<hr>
+
+
 
 
 # 💻 Tech Stack:
