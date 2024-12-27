@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# 💫 About Shivang :
 I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>🔭 Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>🌱 Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>👯 Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>🤔 Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>💬 Ask Me About<br>MERN Stack Development<br>UI/UX Designing with Figma<br>Blockchain basics and applications<br>Competitive Programming<br><br>😄 Pronouns<br>He/Him<br><br>⚡ Fun Fact<br>I enjoy solving puzzles, both in life and in code. Competitive programming and UI/UX design give me a creative and logical playground!
 
 
