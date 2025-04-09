@@ -7,14 +7,11 @@ I’m a passionate student pursuing a Bachelor of Technology at the Indian Insti
 <div>
 <p>
     * <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">6 &#9733</span> (2254 Highest) &nbsp;<a href = "https://www.codechef.com/users/onedayi6star">Profile</a>
-</p>
-<p> * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
-    <span class="cfcolor">&nbsp; Candidate Master </span>(1995 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
+    <span class="rating">3 &#9733</span> (1684 Highest) &nbsp;<a href = "https://www.codechef.com/users/shivang_1811">Profile</a>
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2216 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Soon to be Knight </span>(1705 Highest) &nbsp;<a href = "https://leetcode.com/u/grey_hat_18/">Profile</a>
 </p>
 </div>
 
