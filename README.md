@@ -1,8 +1,24 @@
 # 💫 About Shivang :
 I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>🔭 Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>🌱 Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>👯 Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>🤔 Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>
 
+<hr>
+<h1 align="center">Coding Platforms</h1>
 
+<div>
+<p>
+    * <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
+    <span class="rating">6 &#9733</span> (2254 Highest) &nbsp;<a href = "https://www.codechef.com/users/onedayi6star">Profile</a>
+</p>
+<p> * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
+    <span class="cfcolor">&nbsp; Candidate Master </span>(1995 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
+</p>
+<p>
+    * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2216 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+</p>
+</div>
 
+<hr>
 <!-- <h1 align="center">💻 Tech Stack :</h1>
 all the tech stack was upto date at 30/12/2024-->
 
