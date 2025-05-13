@@ -7,7 +7,7 @@ I’m a passionate student pursuing a Bachelor of Technology at the Indian Insti
 <div>
 <p>
     * <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">3 &#9733</span> (1714 Highest) &nbsp;<a href = "https://www.codechef.com/users/shivang_1811">Profile</a>
+    <span class="rating">3 &#9733</span> (1717 Highest) &nbsp;<a href = "https://www.codechef.com/users/shivang_1811">Profile</a>
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
