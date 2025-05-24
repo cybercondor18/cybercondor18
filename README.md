@@ -11,7 +11,7 @@ I’m a passionate student pursuing a Bachelor of Technology at the Indian Insti
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Soon to be Knight </span>(1788 Highest) &nbsp;<a href = "https://leetcode.com/u/grey_hat_18/">Profile</a>
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Soon to be Knight </span>(1844 Highest) &nbsp;<a href = "https://leetcode.com/u/grey_hat_18/">Profile</a>
 </p>
 </div>
 
