@@ -1,5 +1,5 @@
 # 💫 About Shivang :
-I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Information Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>🔭 Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>🌱 Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>👯 Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>🤔 Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>
+I’m a passionate student pursuing a Bachelor of Technology at the Indian Institute of Information Technology, Nagpur. With a strong interest in technology, design, and problem-solving, I thrive on exploring new challenges and expanding my skillset.<br><br>Currently Working On<br>Developing my technical skills through MERN Stack projects.<br>Exploring the fascinating world of Blockchain technology.<br><br>Currently Learning<br>Advanced web development and honing my competitive programming skills.<br>Building a foundation for future explorations into Machine Learning and Data Science.<br><br>Looking to Collaborate On<br>Innovative tech projects, especially in MERN Stack development, Blockchain, or UI/UX design.<br>Hackathons and coding competitions to solve real-world problems.<br><br>Looking for Help With<br>Gaining deeper insights into Blockchain use cases and applications.<br>Guidance and mentorship as I dive into Machine Learning and Data Science.<br><br>
 
 <hr>
 <h1 align="center">Coding Platforms</h1>
@@ -52,10 +52,9 @@ all the tech stack was upto date at 30/12/2024-->
 <hr>
 <br>
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cybercondor18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cybercondor18&theme=dark&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercondor18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=cybercondor18&theme=dark&hide_border=false)<br/>-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
